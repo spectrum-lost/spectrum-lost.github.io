@@ -1,0 +1,35 @@
+{
+  "atlases": ["sprites/sprites-common.atlas"],
+  "music": "sound/music/0xB-00.mp3",
+  "soundEvents": {
+    "enterRecursiveLevel": [],
+    "turnCell": [
+      "sound/fx/turn-0.wav"
+    ],
+    "expectationDone": [
+      "sound/fx/expectation-done-0.wav"
+    ],
+    "expectorStartCharge": [
+      "sound/fx/expector-start-charge-0.wav"
+    ],
+    "expectationFailed": [],
+    "pulsarFire": [
+      "sound/fx/pulsar-fire-0.wav"
+    ],
+    "switchTurnOff": [
+      "sound/fx/switch-0.wav"
+    ],
+    "switchTurnOn": [
+      "sound/fx/switch-0.wav"
+    ],
+    "showResult:Success": [
+      "sound/fx/rating-success-0.wav",
+      "sound/fx/rating-success-1.wav",
+      "sound/fx/rating-success-2.wav"
+    ],
+    "showResult:Fail": [
+      "sound/fx/rating-fail-0.wav",
+      "sound/fx/rating-fail-1.wav"
+    ]
+  }
+}
